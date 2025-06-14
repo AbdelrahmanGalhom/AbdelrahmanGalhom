@@ -12,9 +12,9 @@ I'm a Computer Science and Engineering student at Egypt-Japan University of Scie
 ## 🛠️ Technical Skills
 
 - **Languages:** Python, SQL, LaTeX
-- **ML/DL Frameworks:** PyTorch, TensorFlow, HuggingFace Transformers, PEFT
+- **ML/DL Frameworks:** PyTorch, TensorFlow, HuggingFace Transformers
 - **Development Tools:** FastAPI, Git, NumPy, Pandas, Matplotlib
-- **Domains:** NLP, Computer Vision, Web Scraping, Scientific Computing
+- **Domains:** NLP, Computer Vision, Web Scraping
 
 ## 📌 Highlight Projects
 
