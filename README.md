@@ -15,7 +15,7 @@ I'm a dedicated Computer Science and Engineering student at Egypt-Japan Universi
 ## 🎯 About Me
 
 - 🎓 **Education**: Computer Science & Engineering at E-JUST (Class of 2026)
-- 📊 **Academic Excellence**: CGPA 3.89 – Academic Excellence Scholar
+- 📊 **Academic Excellence**: CGPA 3.91 – Academic Excellence Scholar
 - 🌍 **Location**: Egypt
 - � **Research Interests**: NLP, Generative AI, Computer Vision, MLOps
 - 💡 **Passion**: Transforming theoretical AI concepts into practical, scalable solutions
@@ -54,7 +54,23 @@ I'm a dedicated Computer Science and Engineering student at Egypt-Japan Universi
 
 ## � Featured Projects
 
-### 🎵 [Music Storyteller](https://github.com/AbdelrahmanGalhom/MusicStoryTeller)
+### �🇦 [Arabic Aspect Sentiment Triplet Extraction](https://github.com/mennanoseer/AASTE-Arabic-Aspect-Sentiment-Triplet-Extraction)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat)](https://huggingface.co/transformers)
+
+**State-of-the-art Arabic sentiment analysis pipeline for aspect-based sentiment extraction**
+
+My graduation project implementing cutting-edge transformer-based models for Arabic sentiment analysis. This research-driven project addresses the challenges of aspect-based sentiment analysis in Arabic text, contributing to the advancement of Arabic NLP.
+
+**Key Achievements:**
+- 🏆 **Research Innovation**: Novel approach to Arabic aspect-sentiment triplet extraction
+- 🔬 **Custom Transformers**: Fine-tuned transformer models for Arabic language specifics
+- 📊 **Performance**: Achieved state-of-the-art results on Arabic sentiment benchmarks
+- 📖 **Academic Impact**: Potential for publication in NLP conferences
+
+---
+
+### �🎵 [Music Storyteller](https://github.com/AbdelrahmanGalhom/MusicStoryTeller)
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.116.1-green.svg)](https://fastapi.tiangolo.com)
 [![LangChain](https://img.shields.io/badge/LangChain-0.3.27-orange.svg)](https://langchain.com)
@@ -73,22 +89,6 @@ An innovative AI-powered application that converts song lyrics and metadata into
 
 ---
 
-### 🇸🇦 [Arabic Aspect Sentiment Triplet Extraction](https://github.com/mennanoseer/AASTE-Arabic-Aspect-Sentiment-Triplet-Extraction)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat)](https://huggingface.co/transformers)
-
-**State-of-the-art Arabic sentiment analysis pipeline for aspect-based sentiment extraction**
-
-My graduation project implementing cutting-edge transformer-based models for Arabic sentiment analysis. This research-driven project addresses the challenges of aspect-based sentiment analysis in Arabic text, contributing to the advancement of Arabic NLP.
-
-**Key Achievements:**
-- 🏆 **Research Innovation**: Novel approach to Arabic aspect-sentiment triplet extraction
-- 🔬 **Custom Transformers**: Fine-tuned transformer models for Arabic language specifics
-- 📊 **Performance**: Achieved state-of-the-art results on Arabic sentiment benchmarks
-- 📖 **Academic Impact**: Potential for publication in NLP conferences
-
----
-
 ### 🖼️ [Seam Carving with Visualization](https://github.com/AbdelrahmanGalhom/Seam-Carving-With-Visualization)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)](https://opencv.org)
@@ -99,7 +99,6 @@ Implementation of the seam carving algorithm for intelligent image resizing that
 
 **Technical Highlights:**
 - 🎯 **Smart Resizing**: Content-aware image manipulation preserving visual integrity
-- 📊 **Real-time Visualization**: Interactive tools for algorithm comprehension
 - ⚡ **Optimized Performance**: Efficient implementation using dynamic programming
 - 🎨 **User Interface**: Clean, intuitive design for educational purposes
 
@@ -117,7 +116,6 @@ Advanced implementation of fine-tuning techniques on Stable Diffusion XL to gene
 - 🎨 **Style Transfer**: Successfully adapted SDXL for anime-specific art generation
 - 🔧 **LoRA Fine-tuning**: Efficient parameter-efficient fine-tuning methodology
 - 🚀 **DreamBooth Integration**: Advanced personalization techniques for consistent character generation
-- 🎯 **Quality Output**: High-fidelity image generation with style consistency
 
 ---
 
@@ -130,10 +128,9 @@ Advanced implementation of fine-tuning techniques on Stable Diffusion XL to gene
 A comprehensive healthcare ML solution featuring a robust API for breast cancer prediction. Demonstrates end-to-end ML pipeline development from data preprocessing to production deployment.
 
 **System Features:**
-- 🔬 **Medical ML**: Sophisticated models for healthcare prediction tasks
+- 🔬 **Medical ML**: AI models for healthcare prediction tasks
 - 🏗️ **Production Architecture**: Scalable FastAPI backend with proper error handling
 - 📊 **Data Pipeline**: Complete data preprocessing and feature engineering workflow
-- 🛡️ **Healthcare Standards**: Implemented with consideration for medical data privacy
 
 ## 🎓 Education & Certifications
 
@@ -180,8 +177,6 @@ I'm always interested in discussing new opportunities, research collaborations, 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdelrahmanGalhom)
 
 ---
-
-*"The future belongs to those who understand that artificial intelligence is not about replacing human intelligence, but amplifying it."*
 
 ⭐ **Interested in my work? Give my repositories a star and let's build the future of AI together!**
 
