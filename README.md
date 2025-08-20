@@ -27,6 +27,7 @@ I'm a dedicated Computer Science and Engineering student at Egypt-Japan Universi
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
@@ -52,9 +53,9 @@ I'm a dedicated Computer Science and Engineering student at Egypt-Japan Universi
 - **Web Development**: API Design, Backend Development, Database Management
 - **Research**: Academic Writing, Experimental Design, Statistical Analysis
 
-## � Featured Projects
+## Featured Projects
 
-### �🇦 [Arabic Aspect Sentiment Triplet Extraction](https://github.com/mennanoseer/AASTE-Arabic-Aspect-Sentiment-Triplet-Extraction)
+### [Arabic Aspect Sentiment Triplet Extraction](https://github.com/mennanoseer/AASTE-Arabic-Aspect-Sentiment-Triplet-Extraction)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat)](https://huggingface.co/transformers)
 
@@ -70,10 +71,10 @@ My graduation project implementing cutting-edge transformer-based models for Ara
 
 ---
 
-### �🎵 [Music Storyteller](https://github.com/AbdelrahmanGalhom/MusicStoryTeller)
-[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.116.1-green.svg)](https://fastapi.tiangolo.com)
-[![LangChain](https://img.shields.io/badge/LangChain-0.3.27-orange.svg)](https://langchain.com)
+### 🎵 [Music Storyteller](https://github.com/AbdelrahmanGalhom/MusicStoryTeller)
+[![Python](https://img.shields.io/badge/Python-blue.svg)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-green.svg)](https://fastapi.tiangolo.com)
+[![LangChain](https://img.shields.io/badge/LangChain-orange.svg)](https://langchain.com)
 
 **Transform songs into captivating stories using AI-powered natural language processing**
 
@@ -136,7 +137,7 @@ A comprehensive healthcare ML solution featuring a robust API for breast cancer 
 
 ### 📚 Current Studies
 - **Bachelor of Computer Science & Engineering** | Egypt-Japan University of Science and Technology (E-JUST)
-  - Class of 2026 | CGPA: 3.89 | Academic Excellence Scholar
+  - Class of 2026 | CGPA: 3.91 | Academic Excellence Scholar
 
 ### 🏆 Professional Development
 - **Generative AI Professional Certificate** | Digital Egypt Pioneers Initiative (Oct 2024 – May 2025)
@@ -146,18 +147,6 @@ A comprehensive healthcare ML solution featuring a robust API for breast cancer 
 - **Machine Learning for Data Analysis** | National Technology Institute (NTI) (Jul – Aug 2024)
   - Comprehensive ML fundamentals and practical applications
   - Hands-on experience with industry-standard tools and techniques
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanGalhom&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanGalhom&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanGalhom&theme=tokyonight&hide_border=true)
-
-</div>
 
 ## 🌟 What I'm Currently Working On
 
