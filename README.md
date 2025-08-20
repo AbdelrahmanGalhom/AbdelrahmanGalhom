@@ -17,9 +17,9 @@ I'm a dedicated Computer Science and Engineering student at Egypt-Japan Universi
 - 🎓 **Education**: Computer Science & Engineering at E-JUST (Class of 2026)
 - 📊 **Academic Excellence**: CGPA 3.91 – Academic Excellence Scholar
 - 🌍 **Location**: Egypt
-- � **Research Interests**: NLP, Generative AI, Computer Vision, MLOps
+- 🔬 **Research Interests**: NLP, Generative AI, Computer Vision, MLOps
 - 💡 **Passion**: Transforming theoretical AI concepts into practical, scalable solutions
-- � **Goal**: Contributing to the advancement of AI technology through research and development
+- 🎯 **Goal**: Contributing to the advancement of AI technology through research and development
 
 ## 🛠️ Technical Expertise
 
@@ -34,15 +34,15 @@ I'm a dedicated Computer Science and Engineering student at Egypt-Japan Universi
 ### AI/ML Frameworks & Libraries
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 
 ### Development Tools & Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -72,9 +72,9 @@ My graduation project implementing cutting-edge transformer-based models for Ara
 ---
 
 ### 🎵 [Music Storyteller](https://github.com/AbdelrahmanGalhom/MusicStoryTeller)
-[![Python](https://img.shields.io/badge/Python-blue.svg)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-green.svg)](https://fastapi.tiangolo.com)
-[![LangChain](https://img.shields.io/badge/LangChain-orange.svg)](https://langchain.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white)](https://langchain.com)
 
 **Transform songs into captivating stories using AI-powered natural language processing**
 
@@ -106,8 +106,8 @@ Implementation of the seam carving algorithm for intelligent image resizing that
 ---
 
 ### 🦸‍♂️ [Naruto Text-to-Image Generator](https://github.com/asmaa-2ahmed/Image-Generator-DEPI)
-[![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-FF6B6B?style=flat)](https://stability.ai)
-[![LoRA](https://img.shields.io/badge/LoRA-4ECDC4?style=flat)](https://arxiv.org/abs/2106.09685)
+[![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-FF6B6B?style=flat&logoColor=white)](https://stability.ai)
+[![LoRA](https://img.shields.io/badge/LoRA-4ECDC4?style=flat&logoColor=white)](https://arxiv.org/abs/2106.09685)
 
 **Fine-tuned Stable Diffusion XL using DreamBooth LoRA for stylized anime image generation**
 
